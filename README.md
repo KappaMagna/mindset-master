@@ -68,7 +68,7 @@ Lo puoi anche stampare — è formattato per essere leggibile sia a video che su
 Il caso studio completo di come è nata questa skill, le 3 decisioni di design chiave, e un toolkit di 5 skill strategiche pronte da costruire — è nella Coffee-Break Guide:
 
 > 📘 **Claude Strategico** — *Skill avanzate per trasformare Claude da assistente medio a partner di pensiero*
-> Disponibile su [gumroad.com/contentoconsulting](https://gumroad.com/contentoconsulting)
+> Disponibile su [contento60.gumroad.com](https://contento60.gumroad.com/)
 
 ---
 
