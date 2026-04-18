@@ -17,7 +17,7 @@
 
 ## Da dove viene
 
-Il documento *Mindset Master* nasce dal lavoro di [Contento.Consulting](https://contento.consulting) sull'integrazione tra intelligenza umana e artificiale. È il risultato di anni di workshop, coaching e prompt design su Claude — distillato in 47 configurazioni cognitive che cambiano la postura con cui l'AI affronta un problema.
+Il documento *Mindset Master* nasce dal lavoro di [Contento.Consulting](https://contento.consulting) sull'integrazione tra intelligenza umana e artificiale. È il risultato di workshop, coaching e prompt design su Claude — distillato in 47 configurazioni cognitive che cambiano la postura con cui l'AI affronta un problema.
 
 La skill `cognitive-modes` è la sua implementazione operativa: Claude la attiva da solo quando rileva che il task ne ha bisogno.
 
