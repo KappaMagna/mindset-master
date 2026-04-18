@@ -63,6 +63,26 @@ Lo puoi anche stampare — è formattato per essere leggibile sia a video che su
 
 ---
 
+## Vuoi applicarlo al tuo contesto?
+
+`cognitive-modes` è la versione **generica**. Funziona da subito — ma è disegnata per il pensiero strategico in astratto, non per il tuo settore, i tuoi clienti, le decisioni che prendi tu ogni settimana.
+
+Quando uso questa skill nei miei percorsi di coaching e consulenza in [Contento.Consulting](https://contento.consulting), il primo passo è quasi sempre **adattarla**:
+
+- **Stack predefiniti** per le decisioni ricorrenti del tuo lavoro (es. una skill `hr-decision-modes` con `Pre-mortem + Adversarial + Calibration` già pronti per le scelte di assunzione senior)
+- **Vocabolario del tuo settore** — la skill parla la tua lingua, non quella della consulenza
+- **Modi cognitivi su misura** per pattern specifici al tuo mondo (es. un modo `Family Business` per la dinamica padronale italiana, o un `Cross-Cultural` per team internazionali)
+
+Il risultato: una skill privata, non riproducibile, che funziona perché è costruita sul *tuo* contesto — non su un'astrazione generica. Quel contesto lo mappiamo insieme; senza di te, la skill non esiste.
+
+**Per chi ha senso:** imprenditori, manager, consulenti che usano già Claude per pensare strategicamente e vogliono trasformarlo da assistente generico in partner allenato sul loro mondo.
+
+**Per cominciare:** una call esplorativa di 30 minuti, gratuita. Capisco il tuo contesto, ti dico se ha senso o no.
+
+📩 **kerstin@contento.consulting**
+
+---
+
 ## Approfondimento
 
 Il caso studio completo di come è nata questa skill, le 3 decisioni di design chiave, e un toolkit di 5 skill strategiche pronte da costruire — è nella Coffee-Break Guide:
